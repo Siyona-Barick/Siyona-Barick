@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siyona Barick</h1>
-<h3 align="center">I am currently studying in class 11 and I love turning ideas into something real — blending design, storytelling, and technology along the way.</h3>
-
-- 🔭 I’m currently working on **Cafe finder Web App**
+<h3 align="center">I am currently studying in class 12 and I love turning ideas into something real — blending design, storytelling, and technology along the way.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Devlopment**
 
